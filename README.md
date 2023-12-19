@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello there 👋 milaasHD
+
 - 📫 How to reach me: saalim.baba@outlook.com
-- 👨‍💻 Currently working with: SwissHub
+- 👨‍💻 Currently working with: [SwissHub](https://swisshub.gg/)
 - 🚀 I'm currently working on: [The Swiss Bank Secrecy](https://bankgeheimnis.vercel.app/)
+- 🤝 Current coding partner: [Poisonlocket](https://github.com/Poisonlocket/Poisonlocket?tab=readme-ov-file)
+- 🥸 Open for collaberations and teamwork on projects
+
 
  
