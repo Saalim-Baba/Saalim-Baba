@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: saalim.baba@outlook.com
 - 👨‍💻 Currently working with: SwissHub
-- 🚀 I'm currently working on: [a link](https://bankgeheimnis.vercel.app/)The Swiss Bank Secrecy
+- 🚀 I'm currently working on: [The Swiss Bank Secrecy](https://bankgeheimnis.vercel.app/)
 
  
