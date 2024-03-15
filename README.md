@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hello there 👋 milaasHD
 
+- 🌎 Greetings from Switzerland
 - 📫 How to reach me: saalim.baba@outlook.com
 - 👨‍💻 Currently working with: [SwissHub](https://swisshub.gg/)
 - 🚀 I'm currently working on: [The Swiss Bank Secrecy](https://bankgeheimnis.vercel.app/)
