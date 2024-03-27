@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌎 Greetings from Switzerland
 - 📫 How to reach me: saalim.baba@outlook.com
-- 👨‍💻 Currently working with: [SwissHub](https://swisshub.gg/)
+- 🛠️ I'm currently working at [SwissHub](https://swisshub.gg/) one of the biggest swiss discord servers
 - 🚀 I'm currently working on: [The Swiss Bank Secrecy](https://bankgeheimnis.vercel.app/)
 - 🥸 Open for collaberations and teamwork on projects
 
