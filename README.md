@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hello World! I'm Saalim 👋
 
 ## About Me
-I hail from the picturesque landscapes of Switzerland 🌄, a land synonymous with precision and beauty. Passionate about technology and community building, I'm currently contributing my expertise to [SwissHub](https://swisshub.gg/), one of the most vibrant Swiss Discord servers.
+I hail from the picturesque landscapes of Switzerland 🌄, a land synonymous with precision and beauty. Passionate about technology and community building, I'm currently contributing my knowledge to [SwissHub](https://swisshub.gg/), one of the most vibrant Swiss Discord servers.
 
 ## What I'm Up To
 🚀 My latest venture is [The Swiss Bank Secrecy](https://bankgeheimnis.vercel.app/), a project that promises to revolutionize the way we think about privacy and finance.
@@ -27,9 +27,8 @@ I hail from the picturesque landscapes of Switzerland 🌄, a land synonymous wi
 - 🌐 Visit my projects and let's elevate ideas to reality.
 
 ## Collaboration
-- 🥸 I'm always on the lookout for innovative collaboration and teamwork opportunities. If you're interested in creating something truly unique, let's join forces!
+- 🥸 I'm always on the lookout for innovative collaboration and teamwork opportunities. If you're interested in creating something together, don't hesitat to contact me!
 
-Certainly! Here's an additional section for your README:
 
 ## Languages spoken
 - 🇩🇪 German
@@ -73,8 +72,6 @@ Certainly! Here's an additional section for your README:
 </h4>
 
 
-## Get Involved
-Your insights and contributions can make a significant impact. If you're skilled in coding, design, or any aspect of project development and are driven by curiosity and collaboration, let's get in touch and explore the endless possibilities!
 
 
 
