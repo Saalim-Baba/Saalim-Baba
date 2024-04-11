@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello World! I'm Saalim 👋
+# Hello World! I'm milaasHD 👋
 
 ## About Me
 I hail from the picturesque landscapes of Switzerland 🌄, a land synonymous with precision and beauty. Passionate about technology and community building, I'm currently contributing my knowledge to [SwissHub](https://swisshub.gg/), one of the most vibrant Swiss Discord servers.
@@ -23,7 +23,7 @@ I hail from the picturesque landscapes of Switzerland 🌄, a land synonymous wi
 🚀 My latest venture is [The Swiss Bank Secrecy](https://bankgeheimnis.vercel.app/), a project that promises to revolutionize the way we think about privacy and finance.
 
 ## Let's Connect
-- 📫 Reach out to me at: saalim.baba@outlook.com
+- 📫 Reach out to me at: milaasHD.dev@proton.me
 - 🌐 Visit my projects and let's elevate ideas to reality.
 
 ## Collaboration
