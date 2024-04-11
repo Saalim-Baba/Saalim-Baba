@@ -27,14 +27,14 @@ I hail from the picturesque landscapes of Switzerland 🌄, a land synonymous wi
 - 🌐 Visit my projects and let's elevate ideas to reality.
 
 ## Collaboration
-- 🥸 I'm always on the lookout for innovative collaboration and teamwork opportunities. If you're interested in creating something together, don't hesitat to contact me!
+- I'm always on the lookout for innovative collaboration and teamwork opportunities. If you're interested in creating something together, don't hesitat to contact me!
 
 
 ## Languages spoken
-- 🇩🇪 German
-- 🇬🇧 English
-- 🇫🇷 French
-- 🇨🇭 Swiss German
+- German
+- English
+- French
+- Swiss German
 
 ## IT Knowledge
 
@@ -70,7 +70,6 @@ I hail from the picturesque landscapes of Switzerland 🌄, a land synonymous wi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
   </a>
 </h4>
-
 
 
 
