@@ -57,8 +57,13 @@ I'm from Switzerland, known for its precision and beauty. I have a strong intere
   </a>
 </h4>
 
+## Currently learning
 
-
+<h4 align="left">
+  <a href="https://isocpp.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="70" height="70"/>
+  </a>
+</h4>
 
 ---
 
