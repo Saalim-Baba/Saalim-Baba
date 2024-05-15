@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 # Hello World! I'm milaasHD 👋
 
 ## About Me
-I hail from the picturesque landscapes of Switzerland 🌄, a land synonymous with precision and beauty. Passionate about technology and community building, I'm currently contributing my knowledge to [SwissHub](https://swisshub.gg/), one of the most vibrant Swiss Discord servers.
+I'm from Switzerland, known for its precision and beauty. I have a strong interest in technology and community building, and I'm currently contributing to [SwissHub](https://swisshub.gg/), a popular Swiss Discord server.
 
 ## What I'm Up To
-🚀 My latest venture is [The Swiss Bank Secrecy](https://bankgeheimnis.vercel.app/), a project that promises to revolutionize the way we think about privacy and finance.
+🚀 My latest project is The Swiss Bank Secrecy, a website dedicated to providing comprehensive information on the history of Swiss banking privacy.
+📘 I'm currently studying C++ to deepen my understanding of programming and improve my technical abilities.
 
 ## Let's Connect
 - 📫 Reach out to me at: milaasHD.dev@proton.me
