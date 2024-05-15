@@ -1,26 +1,11 @@
-
-
-<!--
-**milaasHD/milaasHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hello World! I'm milaasHD 👋
 
 ## About Me
 I'm from Switzerland, known for its precision and beauty. I have a strong interest in technology and community building, and I'm currently contributing to [SwissHub](https://swisshub.gg/), a popular Swiss Discord server.
 
 ## What I'm Up To
-🚀 My latest project is The Swiss Bank Secrecy, a website dedicated to providing comprehensive information on the history of Swiss banking privacy.
+🚀 My latest project is The Swiss Bank Secrecy, a website dedicated to providing information on the history of Swiss banking privacy.
+
 📘 I'm currently studying C++ to deepen my understanding of programming and improve my technical abilities.
 
 ## Let's Connect
