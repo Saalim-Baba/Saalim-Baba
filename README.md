@@ -1,7 +1,7 @@
 # Hello World! I'm milaasHD 👋
 
 ## About Me
-I'm from Switzerland, known for its precision and beauty. I have a strong interest in technology and community building, and I'm currently contributing to [SwissHub](https://swisshub.gg/), a popular Swiss Discord server.
+I'm from Switzerland, known for its precision and beauty. I have a strong interest in technology and community building, and I'm currently contributing to [SwissHub](https://swisshub.gg/), one of the largest Swiss Discord servers.
 
 ## What I'm Up To
 🚀 My latest project is The Swiss Bank Secrecy, a website dedicated to providing information on the history of Swiss banking privacy.
