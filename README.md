@@ -13,7 +13,7 @@ I'm from Switzerland, known for its precision and beauty. I have a strong intere
 - 🌐 Visit my projects and let's elevate ideas to reality.
 
 ## Collaboration
-- I'm always on the lookout for innovative collaboration and teamwork opportunities. If you're interested in creating something together, don't hesitat to contact me!
+- I'm always on the lookout for innovative collaboration and teamwork opportunities. If you're interested in creating something together, don't hesitate to contact me!
 
 
 ## Languages spoken
