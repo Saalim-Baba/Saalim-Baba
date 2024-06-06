@@ -65,6 +65,7 @@ I'm from Switzerland, known for its precision and beauty. I have a strong intere
   </a>
 </h4>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=milaasHD)](https://git.io/streak-stats)
 ---
 
 
