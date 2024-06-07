@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=2C8B17&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World!+👋;+I'm+milaasHD!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=00A6ED&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World!+👋;+I'm+milaasHD!;" />
 </h1>
 
 ## About Me
