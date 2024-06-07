@@ -1,4 +1,7 @@
-# Hello World! I'm milaasHD 👋
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=2C8B17&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World!+👋;+I'm+milaasHD!;" />
+</h1>
 
 ## About Me
 I'm from Switzerland, known for its precision and beauty. I have a strong interest in technology and community building, and I'm currently contributing to [SwissHub](https://swisshub.gg/), one of the largest Swiss Discord servers.
@@ -65,7 +68,19 @@ I'm from Switzerland, known for its precision and beauty. I have a strong intere
   </a>
 </h4>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=milaasHD)](https://git.io/streak-stats)
+---
+<details>
+<p align="center">
+  <a href="https://github.com/milaasHD">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milaasHD&theme=nord_bright" />
+  </a>
+  <a href="https://github.com/milaasHD">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=milaasHD&hide_border=true&card_width=338&theme=nord_bright" />
+  </a>
+</p>
+
+
+
 ---
 
 
