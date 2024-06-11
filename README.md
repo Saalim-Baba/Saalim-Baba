@@ -66,8 +66,10 @@ I'm from Switzerland, known for its precision and beauty. I have a strong intere
   <a href="https://isocpp.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="70" height="70"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="cpp" width="70" height="70"/>
+  </a>
 </h4>
-
 ---
 <details>
 <p align="center">
