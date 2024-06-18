@@ -76,10 +76,10 @@ I'm from Switzerland, known for its precision and beauty. I have a strong intere
 <details>
 <p align="center">
   <a href="https://github.com/Munimic">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milaasHD&theme=nord_bright" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Munimic&theme=nord_bright" />
   </a>
   <a href="https://github.com/Munimic">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=milaasHD&hide_border=true&card_width=338&theme=nord_bright" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munimic&hide_border=true&card_width=338&theme=nord_bright" />
   </a>
 </p>
 
