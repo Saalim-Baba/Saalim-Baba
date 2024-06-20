@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&color=129bd5&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hello+World!+👋;+I'm+Dal-Baba!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&color=129bd5&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hello+World!+👋;+I'm+Saalim+Baba!;" />
 </h1>
 
 ## About Me
@@ -75,11 +75,11 @@ I'm from Switzerland, known for its precision and beauty. I have a strong intere
 
 <details>
 <p align="center">
-  <a href="https://github.com/DalBaba">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DalBaba&theme=nord_bright" />
+  <a href="https://github.com/Saalim-Baba">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saalim-Baba&theme=nord_bright" />
   </a>
-  <a href="https://github.com/DalBaba">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DalBaba&hide_border=true&card_width=338&theme=nord_bright" />
+  <a href="https://github.com/Saalim-Baba">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saalim-Baba&hide_border=true&card_width=338&theme=nord_bright" />
   </a>
 </p>
 
