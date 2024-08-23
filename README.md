@@ -9,10 +9,10 @@ I'm from Switzerland, known for its precision and beauty. I have a strong intere
 ## What I'm Up To
 🚀 My latest project is The Swiss Bank Secrecy, a website dedicated to providing information on the history of Swiss banking privacy.
 
-📘 I'm currently studying C++ to deepen my understanding of programming and improve my technical abilities.
+📘 I'm currently studying C++ AND Ruby to deepen my understanding of programming and improve my technical abilities.
 
 ## Let's Connect
-- 📫 Reach out to me at: Saalim.Baba@outlook.me
+- 📫 Reach out to me at: Saalim.Baba@outlook.com
 - 🌐 Visit my projects and let's elevate ideas to reality.
 
 ## Collaboration
