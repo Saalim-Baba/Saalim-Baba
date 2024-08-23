@@ -69,6 +69,9 @@ I'm from Switzerland, known for its precision and beauty. I have a strong intere
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="cpp" width="50" height="50"/>
   </a>
+    <a href="https://www.ruby-lang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50"/>
+  </a>
 </h4>
 
 ---
