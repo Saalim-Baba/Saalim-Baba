@@ -82,8 +82,5 @@ I'm from Switzerland, known for its precision and beauty. I have a strong intere
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saalim-Baba&hide_border=true&card_width=338&theme=nord_bright" />
   </a>
 </p>
-
-
-
 ---
 
