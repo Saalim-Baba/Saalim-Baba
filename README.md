@@ -12,7 +12,7 @@ I'm from Switzerland, known for its precision and beauty. I have a strong intere
 📘 I'm currently studying C++ to deepen my understanding of programming and improve my technical abilities.
 
 ## Let's Connect
-- 📫 Reach out to me at: BabaCodes@proton.me
+- 📫 Reach out to me at: Saalim.Baba@outlook.me
 - 🌐 Visit my projects and let's elevate ideas to reality.
 
 ## Collaboration
