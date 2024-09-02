@@ -17,7 +17,6 @@ I'm also on codewars if you want to check it out: https://www.codewars.com/users
 - 📫 Reach out to me at:
 
 [![Proton](https://img.shields.io/badge/proton-black?style=for-the-badge&logo=proton)](mailto:saalim.baba@proton.me")
-
 [![Outlook](https://img.shields.io/badge/outlook-black?style=for-the-badge&logo=outlook)](mailto:saalim.baba@outlook.com")
 - 🌐 Visit my projects and let's elevate ideas to reality.
 
