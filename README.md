@@ -80,6 +80,7 @@ I'm also on codewars if you want to check it out: https://www.codewars.com/users
   <a href="https://isocpp.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50"/>
   </a>
+    
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="cpp" width="50" height="50"/>
   </a>
