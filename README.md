@@ -9,7 +9,7 @@ I'm from Switzerland, known for its precision and beauty. I have a strong intere
 ## What I'm Up To
 🚀 My latest project is The Swiss Bank Secrecy, a website dedicated to providing information on the history of Swiss banking privacy.
 
-📘 I'm currently studying C++ AND Ruby to deepen my understanding of programming and improve my technical abilities.
+📘 I'm currently studying C++ to deepen my understanding of programming and improve my technical abilities.
 
 I'm also on codewars if you want to check it out: https://www.codewars.com/users/milaasHD
 
@@ -94,9 +94,6 @@ I'm also on codewars if you want to check it out: https://www.codewars.com/users
 <p align="center">
   <a href="https://github.com/Saalim-Baba">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saalim-Baba&theme=nord_bright" />
-  </a>
-  <a href="https://github.com/Saalim-Baba">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saalim-Baba&hide_border=true&card_width=338&theme=nord_bright" />
   </a>
 </p>
 
