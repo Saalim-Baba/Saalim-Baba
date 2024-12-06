@@ -1,13 +1,19 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&color=129bd5&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hello+World!+👋;+I'm+Saalim+Baba!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&color=129bd5&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hello+World!+👋;+I'm+BabaCodes!;" />
 </h1>
 
 ## About Me
-I'm from Switzerland, known for its precision and beauty. I have a strong interest in technology and community building, and I'm currently contributing to [SwissHub](https://swisshub.gg/), one of the largest Swiss Discord servers.
+I'm a 18 year old developer from Switzerland, currently balancing personal projects with freelance client work off GitHub. My focus is on learning and applying practical skills to build tools and solutions that meet real needs and networking with like-minded people. 
+
+If I'm not coding on something I'm probably out in the gym or hanging out with my friends
+
+## Freelance Services 💼  
+Available for development, debugging, and collaborative projects—let’s work together! 🚀  
+
 
 ## What I'm Up To
-🚀 My latest project is The Swiss Bank Secrecy, a website dedicated to providing information on the history of Swiss banking privacy.
+🚀 Working on client projects and helping upcoming fellow IT Students with questions and problems
 
 📘 I'm currently studying C++ to deepen my understanding of programming and improve my technical abilities.
 
@@ -18,7 +24,7 @@ I'm also on codewars if you want to check it out: https://www.codewars.com/users
 
 [![Proton](https://img.shields.io/badge/proton-black?style=for-the-badge&logo=proton)](mailto:saalim.baba@proton.me")
 [![Outlook](https://img.shields.io/badge/outlook-black?style=for-the-badge&logo=outlook)](mailto:saalim.baba@outlook.com")
-- 🌐 Visit my projects and let's elevate ideas to reality.
+- 🌐 Visit my projects
 
 ## Collaboration
 - I'm always on the lookout for innovative collaboration and teamwork opportunities. If you're interested in creating something together, don't hesitate to contact me!
