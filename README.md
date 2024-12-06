@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&color=129bd5&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hello+World!+👋;+I'm+BabaCodes!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&color=40745d&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hello+World!+👋;+I'm+BabaCodes!;" />
 </h1>
 
 ## About Me
