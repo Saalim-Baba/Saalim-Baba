@@ -24,7 +24,6 @@ I'm also on codewars if you want to check it out: https://www.codewars.com/users
 
 [![Proton](https://img.shields.io/badge/proton-black?style=for-the-badge&logo=proton)](mailto:saalim.baba@proton.me")
 [![Outlook](https://img.shields.io/badge/outlook-black?style=for-the-badge&logo=outlook)](mailto:saalim.baba@outlook.com")
-- 🌐 Visit my projects
 
 ## Collaboration
 - I'm always on the lookout for innovative collaboration and teamwork opportunities. If you're interested in creating something together, don't hesitate to contact me!
